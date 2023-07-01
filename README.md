@@ -30,6 +30,4 @@ Include your `Maps API Key` in your .env file
 
 # Demo
 
-https://github.com/granam180/uber-2.0/assets/6617264/9a6a2813-e918-4ec9-8f5b-2dd5bd091143
-
-
+https://github.com/granam180/uber-2.0/assets/6617264/47c50ad1-7984-4924-89c3-463766d8e52a
